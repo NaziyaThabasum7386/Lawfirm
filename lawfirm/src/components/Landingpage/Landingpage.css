@@ -1,0 +1,291 @@
+
+  .App {
+    width: 1526px;
+    height: 990px;
+    top: -81px;
+    left: -48px;
+    background: #111111;
+  }
+  .igstudio {
+    width: 1135px;
+    height: 636px;
+    top: 53px;
+    left: 153px;
+    color: #ffffff;
+    position: relative;
+  }
+  .logo {
+    display: flex;
+    width: 143px;
+    height: 30.3px;
+    top: 61px;
+    left: 153px;
+  }
+  .logo1 {
+    position: absolute;
+    width: 30.41px;
+    height: 30.3px;
+    top: 8px;
+    left: 0px;
+  }
+  .logotext {
+    position: absolute;
+    width: 101.3px;
+    height: 15.95px;
+    left: 41.7px;
+    top: 15.58px;
+    color: #ffffff;
+  }
+  .components {
+    justify-content: space-between;
+    position: absolute;
+    display: flex;
+    width: 431px;
+    height: 26px;
+    left: 355px;
+    top: 10px;
+  }
+  
+  .Home {
+    width: 46px;
+    height: 26px;
+    left: 355px;
+    top: 10px;
+  
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 162.52%;
+    /* identical to box height, or 26px */
+    text-align: center;
+    cursor: pointer;
+    /* Pure White */
+    color: #ffffff;
+  }
+  
+  .Attorneys {
+    width: 77px;
+    height: 26px;
+    left: 442px;
+    top: 10px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 162.52%;
+    /* identical to box height, or 26px */
+    text-align: center;
+  
+    /* Pure White */
+    cursor: pointer;
+    color: #ffffff;
+  }
+  
+  .Practice-Areas {
+    width: 113px;
+    height: 26px;
+    left: 560px;
+    top: 10px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 162.52%;
+    /* identical to box height, or 26px */
+    text-align: center;
+    cursor: pointer;
+    /* Pure White */
+    color: #ffffff;
+  }
+  .About-Us {
+    width: 72px;
+    height: 26px;
+    left: 867px;
+    top: 10px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 162.52%;
+    /* identical to box height, or 26px */
+    text-align: center;
+    cursor: pointer;
+    /* Pure White */
+    color: #ffffff;
+  }
+  
+  .contact-us {
+    position: absolute;
+    width: 172px;
+    height: 50px;
+    top: 0px;
+    left: 963px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #ffffff;
+    background: black; /* Set your desired background color */
+    border: 2px solid #ffffff; /* Set your desired border color */
+    cursor: pointer; /* Add cursor style for better usability */
+  }
+  .main {
+    position: absolute;
+    width: 571px;
+    height: 194px;
+    top: 250px;
+    left: 3px;
+  }
+  .first {
+    font-family: "Inter", sans-serif;
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 97px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .second {
+    font-family: "Inter", sans-serif;
+    font-size: 66px;
+    font-weight: 700;
+    line-height: 97px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .para {
+    position: absolute;
+    width: 560px;
+    height: 99px;
+    top: 480px;
+    left: 8px;
+    opacity: 0.3px;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+  }
+  .email {
+    position: relative;
+    display: flex;
+    width: 438px;
+    height: 74px;
+    top: 615px;
+    left: 1px;
+    border-radius: 43px;
+    background: #5b5959;
+  }
+  .emailicon {
+    position: absolute;
+    width: 18.33px;
+    height: 16.5px;
+    top: 29.75px;
+    left: 15.83px;
+    text-align: center;
+  }
+  .emailtext {
+    position: absolute;
+    width: 190px;
+    height: 26px;
+    top: 25.75px;
+    left: 49.83px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #979292;
+  }
+  .letstalk {
+    position: absolute;
+    width: 137px;
+    height: 62px;
+    top: 6px;
+    left: 296px;
+    border-radius: 43px;
+  }
+  
+  .photo {
+    position: relative;
+    display: flex;
+    width: 467.71px;
+    height: 544.71px;
+    top: 119px;
+    left: 667px;
+  }
+  .yellow {
+    position: absolute;
+    width: 467.71px;
+    height: 467.71px;
+    top: 77px;
+    left: 0px;
+    border-radius: 55px;
+  }
+  .image {
+    width: 443.51px;
+    height: 509.07px;
+    top: 53px;
+    left: 165.32px;
+  }
+  
+  .introduction {
+    position: absolute;
+    width: 1132px;
+    height: 174px;
+    top: 2333px;
+    left: 150px;
+  }
+  .text {
+    width: 387px;
+    height: 174px;
+    top: 1081px;
+    left: 150px;
+    font-family: "Inter", sans-serif;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+  }
+  .text2 {
+    position: absolute;
+    width: 475px;
+    height: 155px;
+    top: 4px;
+    left: 807px;
+  }
+  .criminal {
+    width: 249px;
+    height: 52px;
+    top: 1084px;
+    left: 807px;
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffffff;
+  }
+  .paragraph {
+    width: 475px;
+    height: 87px;
+    top: 1152px;
+    left: 807px;
+    opacity: 0.3px;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #969191;
+  }
+  
